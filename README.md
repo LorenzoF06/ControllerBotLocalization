@@ -1,3 +1,3 @@
 # controller-bot-locales
 
-Localization of Controller Bot (t.me/ControllerBot)
+Localization of Controller Bot (https://t.me/60132189928))
